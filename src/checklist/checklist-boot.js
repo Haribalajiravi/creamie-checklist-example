@@ -1,0 +1,1 @@
+export default {"checklist-component.html":"<div>\r    <input class=\"cb\" type=\"checkbox\" e=\"click:check\" />\r    <span data=\"checklistContent\"></span>\r</div>","checklist-component.css":".cb {\r    vertical-align: -3px;\r}"}
