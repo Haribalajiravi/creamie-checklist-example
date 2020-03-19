@@ -5,7 +5,7 @@
   "scripts": {
     "build": "creamie-watch -i && webpack --mode=development",
     "development": "webpack-dev-server",
-    "start": "pm2 start",
+    "start": "node server.js",
     "stop": "pm2 stop all"
   },
   "dependencies": {
